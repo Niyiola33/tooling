@@ -30,6 +30,6 @@
 	</form>
 </body>
 	<p>
-		Am new here 
+		The hand of the Lord is upon me for speed
 	</p>
 </html>
